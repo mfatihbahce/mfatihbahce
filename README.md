@@ -58,5 +58,5 @@ I love to research and learn new things, so I am constantly trying to improve my
 </body>
 </html>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mfatihbahce&repo=Python_cukur_tespit)](Python_cukur_tespit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mfatihbahce&repo=CAN-BUS_send_and_receive)](CAN-BUS_send_and_receive)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mfatihbahce&repo=Python_cukur_tespit)](https://github.com/mfatihbahce/Python_cukur_tespit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mfatihbahce&repo=CAN-BUS_send_and_receive)](https://github.com/mfatihbahce/CAN-BUS_send_and_receive)
