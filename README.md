@@ -62,6 +62,5 @@
 </body>
 </html>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfatihbahce&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihbahce&layout=compact)](#)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mfatihbahce&repo=Python_cukur_tespit)](#)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mfatihbahce&repo=CAN-BUS_send_and_receive)](#)
