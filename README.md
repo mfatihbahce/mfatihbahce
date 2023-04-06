@@ -47,19 +47,34 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>Web</th>
+    <th>Design</th>
+    <th>Mobile App</th>
+    <th>Robotics</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>
+    <a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/html-5.png" style="max-width: 100%;"></a>
+    <a href="#" rel="nofollow"><img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/256/css3.png" style="max-width: 100%;"></a>
+    <a href="#" rel="nofollow"><img align="left" alt="JS" width="26px" src="https://img.icons8.com/color/256/javascript.png" style="max-width: 100%;"></a>
+    <a href="#" rel="nofollow"><img align="left" alt="BS" width="26px" src="https://img.icons8.com/color/256/bootstrap.png" style="max-width: 100%;"></a>
+    <a href="#" rel="nofollow"><img align="left" alt="PHP" width="26px" src="https://img.icons8.com/glyph-neue/256/php.png" style="max-width: 100%;"></a>
+    <a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/fluency/256/laravel.png" style="max-width: 100%;"></a>
+    </td>
+    <td>
+    <a href="#" rel="nofollow"><img align="left" alt="Figma" width="26px" src="https://img.icons8.com/fluency/256/figma.png" style="max-width: 100%;"></a>
+    <a href="#" rel="nofollow"><img align="left" alt="Photshp" width="26px" src="https://img.icons8.com/fluency/256/adobe-photoshop.png" style="max-width: 100%;"></a>
+    <a href="#" rel="nofollow"><img align="left" alt="illstrtr" width="26px" src="https://img.icons8.com/color/256/adobe-illustrator.png" style="max-width: 100%;"></a>
+    <a href="#" rel="nofollow"><img align="left" alt="canva" width="26px" src="https://img.icons8.com/fluency/256/canva.png" style="max-width: 100%;"></a>
+    </td>
+    <td>
+    <a href="#" rel="nofollow"><img align="left" alt="java" width="26px" src="https://img.icons8.com/color/256/java-coffee-cup-logo.png" style="max-width: 100%;"></a>
+    <a href="#" rel="nofollow"><img align="left" alt="flutter" width="26px" src="https://img.icons8.com/fluency/256/flutter.png" style="max-width: 100%;"></a>
+    </td>
+    <td>
+    <a href="#" rel="nofollow"><img align="left" alt="arduino" width="26px" src="https://img.icons8.com/fluency/256/arduino.png" style="max-width: 100%;"></a>
+    <a href="#" rel="nofollow"><img align="left" alt="raspberry" width="26px" src="https://img.icons8.com/color/256/raspberry-pi.png" style="max-width: 100%;"></a>
+    </td>
   </tr>
 </table>
 
