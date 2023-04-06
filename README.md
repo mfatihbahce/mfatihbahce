@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-757575?style=flat-quare&labelColor=757575&logo=Github&logoColor=white&link=link)](https://github.com/mfatihbahce/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/mfatihbahce/)
@@ -18,26 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <h3># Languages and Tools</h3>
-
-<a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/html-5.png" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/css3.png" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/javascript.png" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/bootstrap.png" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/glyph-neue/256/php.png" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/fluency/256/laravel.png" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/html-5.png" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/html-5.png" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/html-5.png" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/html-5.png" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/html-5.png" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/html-5.png" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/html-5.png" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/html-5.png" style="max-width: 100%;"></a>
-<a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/html-5.png" style="max-width: 100%;"></a>
-
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=mfatihbahce&show_icons=true&theme=radical)
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihbahce&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!DOCTYPE html>
 <html>
@@ -74,9 +53,13 @@ Here are some ideas to get you started:
     <td>
     <a href="#" rel="nofollow"><img align="left" alt="arduino" width="26px" src="https://img.icons8.com/fluency/256/arduino.png" style="max-width: 100%;"></a>
     <a href="#" rel="nofollow"><img align="left" alt="raspberry" width="26px" src="https://img.icons8.com/color/256/raspberry-pi.png" style="max-width: 100%;"></a>
+    <a href="#" rel="nofollow"><img align="left" alt="raspberry" width="26px" src="https://img.icons8.com/color/256/python.png" style="max-width: 100%;"></a>
     </td>
   </tr>
 </table>
 
 </body>
 </html>
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=mfatihbahce&show_icons=true&theme=radical)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfatihbahce&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
