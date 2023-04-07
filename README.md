@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I graduated from Management Information Systems department 2 years ago and have been working on web technologies. I try to use tools such as HTML, CSS, JavaScript, Bootstrap, PHP, and Laravel in my projects. Additionally, I work with design tools such as Figma, Photoshop and Illustrator. Recently, I have started to develop myself in the field of robotics using kits such as Arduino, Raspberry Pi, and Jetson Nano.
+I graduated from the Department of Management Information Systems in 2021 and I am currently working on web technologies. I try to use tools such as HTML, CSS, JavaScript, Bootstrap, PHP, and Laravel in my projects. Additionally, I work with design tools such as Figma, Photoshop and Illustrator. Recently, I have started to develop myself in the field of robotics using kits such as Arduino, Raspberry Pi, and Jetson Nano.
 
 I have initiated a startup project focused on the agricultural sector with the aim of providing detailed information to farmers about their fields by visualizing plant health and land conditions through satellite imagery.
 
