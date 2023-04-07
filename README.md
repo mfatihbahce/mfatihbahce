@@ -12,7 +12,7 @@ I love to research and learn new things, so I am constantly trying to improve my
 [![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=Github&logoColor=white&link=link)](https://github.com/mfatihbahce/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-000000?style=flat-quare&labelColor=000000&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/mfatihbahce/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-quare&labelColor=000000&logo=Medium&logoColor=white&link=link)](https://mfatihbahce.medium.com/)
-[![Behance Badge](https://img.shields.io/badge/-Behance-000000?style=flat-quare&labelColor=000000&logo=Behance&logoColor=white&link=link)](https://www.behance.net/fatihbahce)
+[![Behance Badge](https://img.shields.io/badge/-Behance-000000?style=flat-quare&labelColor=000000&logo=Behance&logoColor=white&link=link)](https://www.behance.net/mfatihbahce)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-000000?style=flat-quare&labelColor=000000&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/fatihbahce_/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-quare&labelColor=000000&logo=Twitter&logoColor=white&link=link)](https://twitter.com/fatihhbahce)
 
