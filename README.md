@@ -8,12 +8,12 @@ I love to research and learn new things, so I am constantly trying to improve my
 
 <h3># Connect with me</h3>
 
-[![Github Badge](https://img.shields.io/badge/-Github-757575?style=flat-quare&labelColor=757575&logo=Github&logoColor=white&link=link)](https://github.com/mfatihbahce/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-757575?style=flat-quare&labelColor=757575&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/mfatihbahce/)
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@fathbahce)
-[![Instagram Badge](https://img.shields.io/badge/-instagram-757575?style=flat-quare&labelColor=757575&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/fatihbahce_/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-757575?style=flat-quare&labelColor=757575&logo=Twitter&logoColor=white&link=link)](https://twitter.com/fatihhbahce)
-[![Behance Badge](https://img.shields.io/badge/-Behance-757575?style=flat-quare&labelColor=757575&logo=Behance&logoColor=white&link=link)](https://www.behance.net/fatihbahce)
+[![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-quare&labelColor=000000&logo=Github&logoColor=white&link=link)](https://github.com/mfatihbahce/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-000000?style=flat-quare&labelColor=000000&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/mfatihbahce/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-quare&labelColor=000000&logo=Medium&logoColor=white&link=link)](https://medium.com/@fathbahce)
+[![Behance Badge](https://img.shields.io/badge/-Behance-000000?style=flat-quare&labelColor=000000&logo=Behance&logoColor=white&link=link)](https://www.behance.net/fatihbahce)
+[![Instagram Badge](https://img.shields.io/badge/-instagram-000000?style=flat-quare&labelColor=000000&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/fatihbahce_/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-quare&labelColor=000000&logo=Twitter&logoColor=white&link=link)](https://twitter.com/fatihhbahce)
 
 <h3># Languages and Tools</h3>
 
