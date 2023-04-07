@@ -13,6 +13,8 @@ I love to research and learn new things, so I am constantly trying to improve my
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](https://medium.com/@fathbahce)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-757575?style=flat-quare&labelColor=757575&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/fatihbahce_/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-757575?style=flat-quare&labelColor=757575&logo=Twitter&logoColor=white&link=link)](https://twitter.com/fatihhbahce)
+[![Behance Badge](https://img.shields.io/badge/-Behance-757575?style=flat-quare&labelColor=757575&logo=Behance&logoColor=white&link=link)](https://www.behance.net/fatihbahce)
+
 <h3># Languages and Tools</h3>
 
 <!DOCTYPE html>
