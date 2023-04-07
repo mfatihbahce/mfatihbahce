@@ -33,7 +33,7 @@ I love to research and learn new things, so I am constantly trying to improve my
   </tr>
   <tr>
     <td>
-    <a rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/html-5.png" style="max-width: 100%;"></a>
+    <a href="#" rel="nofollow"><img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/256/html-5.png" style="max-width: 100%;"></a>
     <a href="#" rel="nofollow"><img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/256/css3.png" style="max-width: 100%;"></a>
     <a href="#" rel="nofollow"><img align="left" alt="JS" width="26px" src="https://img.icons8.com/color/256/javascript.png" style="max-width: 100%;"></a>
     <a href="#" rel="nofollow"><img align="left" alt="BS" width="26px" src="https://img.icons8.com/color/256/bootstrap.png" style="max-width: 100%;"></a>
