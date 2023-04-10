@@ -37,8 +37,8 @@ I love to research and learn new things, so I am constantly trying to improve my
     <a href="#" rel="nofollow"><img align="left" alt="CSS" width="26px" src="https://img.icons8.com/color/256/css3.png" style="max-width: 100%;"></a>
     <a href="#" rel="nofollow"><img align="left" alt="JS" width="26px" src="https://img.icons8.com/color/256/javascript.png" style="max-width: 100%;"></a>
     <a href="#" rel="nofollow"><img align="left" alt="BS" width="26px" src="https://img.icons8.com/color/256/bootstrap.png" style="max-width: 100%;"></a>
+    <br>
     <a href="#" rel="nofollow"><img align="left" alt="PHP" width="26px" src="https://img.icons8.com/glyph-neue/256/php.png" style="max-width: 100%;"></a>
-      <br>
     <a href="#" rel="nofollow"><img align="left" alt="Lrvl" width="26px" src="https://img.icons8.com/fluency/256/laravel.png" style="max-width: 100%;"></a>
     <a href="#" rel="nofollow"><img align="left" alt="Wrdprs" width="26px" src="https://img.icons8.com/ios-filled/256/wordpress.png" style="max-width: 100%;"></a>
     <a href="#" rel="nofollow"><img align="left" alt="Opncrt" width="26px" src="https://img.icons8.com/ios-filled/256/opencart.png" style="max-width: 100%;"></a>
