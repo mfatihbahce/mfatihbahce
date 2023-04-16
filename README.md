@@ -1,11 +1,13 @@
 ### Hi there 👋
 
 <h3># About me</h3>
-I graduated from the Department of Management Information Systems in 2021 and I am currently working on web technologies. I try to use tools such as HTML, CSS, JavaScript, Bootstrap, PHP, Laravel, Wordpress and Opencart in my projects. Additionally, I work with design tools such as Figma, Photoshop and Illustrator. Recently, I have started to develop myself in the field of robotics using kits such as Arduino, Raspberry Pi, and Jetson Nano.
+Hello! I graduated from Management Information Systems department in 2021 and currently, I am working on web and design technologies. I use tools such as HTML, CSS, JavaScript, Bootstrap, PHP, Laravel, Wordpress, and Opencart in my projects. Additionally, I work with design tools like Figma, Photoshop, and Illustrator. Recently, I have started to improve my skills in the field of robotics using kits like Arduino, Raspberry Pi, and Jetson Nano.
 
-I have initiated a startup project focused on the agricultural sector with the aim of providing detailed information to farmers about their fields by visualizing plant health and land conditions through satellite imagery.
+I have initiated a startup project focused on the agriculture sector. This project aims to provide detailed information about crop health and terrain conditions to farmers through satellite imagery for visualizing their fields.
 
-I love to research and learn new things, so I am constantly trying to improve myself. I am passionate about generating creative solutions, which is why there are always innovations in my projects.
+I enjoy taking part in social responsibility projects and volunteer work. I mentored high school students for 3 months at Pamfil Şeicaru Technology School in Romania as part of the Erasmus+ Project. I also volunteered to provide coding education to middle school and high school students through the Tomorrow's Coders project, organized jointly by Vodafone Foundation and Habitat Association.
+
+I love exploring and researching new things, so I constantly strive to improve myself. As I am passionate about generating creative solutions, my projects always involve innovations.
 
 <h3># Connect with me</h3>
 
