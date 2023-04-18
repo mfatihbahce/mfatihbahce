@@ -15,6 +15,7 @@ I love exploring and researching new things, so I constantly strive to improve m
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-000000?style=flat-quare&labelColor=000000&logo=Linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/mfatihbahce/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-quare&labelColor=000000&logo=Medium&logoColor=white&link=link)](https://mfatihbahce.medium.com/)
 [![Behance Badge](https://img.shields.io/badge/-Behance-000000?style=flat-quare&labelColor=000000&logo=Behance&logoColor=white&link=link)](https://www.behance.net/mfatihbahce)
+[![Figma Badge](https://img.shields.io/badge/-Figma-000000?style=flat-quare&labelColor=000000&logo=Figma&logoColor=white&link=link)](https://www.Figma.com/fatihbahce)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-000000?style=flat-quare&labelColor=000000&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/fatihbahce_/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-000000?style=flat-quare&labelColor=000000&logo=Twitter&logoColor=white&link=link)](https://twitter.com/mfatihbahce)
 
