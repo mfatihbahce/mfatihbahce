@@ -22,7 +22,6 @@ I love exploring and researching new things, so I constantly strive to improve m
 <h3># Mobile App Prototype</h3>
 
 [![Figma Badge](https://img.shields.io/badge/-Figma-000000?style=flat-quare&labelColor=000000&logo=Figma&logoColor=white&link=link)](https://www.figma.com/proto/RE8M7gSWyZAkLNdyseuvl3/Toros%3A-Food-Delivery-App?node-id=70-207&scaling=scale-down&page-id=0%3A1&starting-point-node-id=23%3A217)
-
 [![Figma Badge](https://img.shields.io/badge/-Figma-000000?style=flat-quare&labelColor=000000&logo=Figma&logoColor=white&link=link)](https://www.figma.com/proto/FB020pIS80H11yfvyKwY1O/NICI?node-id=474-6513&scaling=scale-down&page-id=0%3A1&starting-point-node-id=474%3A6513)
 
 <h3># Languages and Tools</h3>
